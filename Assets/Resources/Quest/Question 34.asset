@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 586e739eaa78ac648b93e3f24703486c, type: 3}
+  m_Name: Question 34
+  m_EditorClassIdentifier: Assembly-CSharp::Question
+  questionText: A store discounts an item by 20%, then applies 10% tax on the reduced
+    price. If the item costs $100, how much is the final price?
+  answers:
+  - $88
+  - $90
+  - $92
+  indexCorrectAnswer: 0
+  questionType: 4

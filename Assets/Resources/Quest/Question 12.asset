@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 586e739eaa78ac648b93e3f24703486c, type: 3}
+  m_Name: Question 12
+  m_EditorClassIdentifier: Assembly-CSharp::Question
+  questionText: "You\u2019re given a task with a very short deadline. What\u2019s
+    the best reaction?"
+  answers:
+  - Prioritize and focus on completing the most important parts
+  - Panic and complain about time
+  - Ask someone else to do it entirely
+  indexCorrectAnswer: 0
+  questionType: 1

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1803f087eaeac140bc0e20866a2d597, type: 3}
+  m_Name: Prop_Microwave_03
+  m_EditorClassIdentifier: Assembly-CSharp::ItemShop
+  namePrefab: Prop_Microwave_03
+  price: 189906782
+  isConsume: 0
+  propType: 2
+  imagePrefab: {fileID: 21300000, guid: d0e4f2582fae899468cb928917653c59, type: 3}
+  category: Technology
